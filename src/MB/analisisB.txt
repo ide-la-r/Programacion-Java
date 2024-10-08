@@ -1,0 +1,3 @@
+[([])]]
+Esto es [un ejemplo] correcto
+Esto es [un ejemplo] incorrecto]
