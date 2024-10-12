@@ -1,2 +1,2 @@
 # Programacion_Java
-todos lo aprendido en Java
+Todo lo aprendido en Java
